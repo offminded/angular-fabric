@@ -1,7 +1,10 @@
 angular-fabric
 ==============
+[Forked from:](http://codepen.io/clouddueling/full/Imupw)
 
-FabricJS bound to AngularJS using a service to act as a `$scope` for easy manipulation.
-Please note that these modules all work but I'm organizing it better as I go.  FabricJS has `muchos` functions.
 
-[Example Site](http://codepen.io/clouddueling/full/Imupw)
+### Changes
+# Combined all assets and modules into single file
+# AddShape modifications and fixes
+# Added Fabric iText method
+# Added Fabric setCanvasBackgroundImage support
