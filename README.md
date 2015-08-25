@@ -1,6 +1,6 @@
 angular-fabric
 ==============
-[Forked from:](http://codepen.io/clouddueling/full/Imupw)
+[Forked from angular-fabric](http://codepen.io/clouddueling/full/Imupw)
 
 
 ## Changes
